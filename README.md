@@ -1,4 +1,4 @@
-# 📘 Portfoli de Projectes — CFGM Sistemes Microinformàtics i Xarxes
+# 📘 Portfoli de Projectes — CFGM SMX
 
 Benvinguts al meu repositori final del cicle formatiu de grau mitjà de **Sistemes Microinformàtics i Xarxes (SMX)**.
 
@@ -19,30 +19,15 @@ Cada projecte inclou documentació, configuracions, captures, scripts o fitxers 
 ---
 
 # 📁 Projectes inclosos
-
-## Projecte 01 — Arranquem
-Introducció als conceptes bàsics del cicle i preparació de l’entorn de treball.
-
-## Projecte 02 — Consultoria EverPia
-Primera simulació d’una consultoria tecnològica aplicada a una empresa.
-
-## Projecte 03 — Consultoria EverPia 2
-Continuació i ampliació de la infraestructura i serveis de l’empresa.
-
-## Projecte 04 — Consultoria EverPia 3
-Implementació de noves solucions, seguretat i administració avançada.
-
-## Projecte 05 — La incubadora
-Desenvolupament d’un entorn tecnològic complet per a una incubadora d’empreses.
-
-## Projecte 06 — Nexus
-Projecte enfocat en la connectivitat, serveis i integració de sistemes.
-
-## Projecte 07 — Food Logístics S.A.
-Infraestructura informàtica orientada a una empresa logística real.
-
-## Projecte 08 — Connecta’t al Futur: el repte de la digitalització real
-Projecte final enfocat en la transformació digital i aplicació global dels coneixements adquirits.
+### Projecte 01 al 8  — [Aquí](/Projectes/resum_projectes.md)
+### Projecte 01 — Arranquem — [Aquí](/Projectes/Projecte1.md)
+### Projecte 02 — Consultoria EverPia — [Aquí](/Projectes/Projecte2.md)
+### Projecte 03 — Consultoria EverPia 2 — [Aquí](/Projectes/Projecte3.md)
+### Projecte 04 — Consultoria EverPia 3 — [Aquí](/Projectes/Projecte4.md)
+### Projecte 05 — La incubadora — [Aquí](/Projectes/Projecte5.md)
+### Projecte 06 — Nexus — [Aquí](/Projectes/Projecte6.md)
+### Projecte 07 — Food Logístics S.A. — [Aquí](/Projectes/Projecte7.md)
+### Projecte 08 — Connecta’t al Futur: el repte de la digitalització real — [Aquí](/Projectes/Projecte8.md)
 
 ---
 
