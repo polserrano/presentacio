@@ -10,7 +10,7 @@ També es van treballar conceptes inicials sobre sistemes Linux i seguretat fís
 
 ## 📦 Productes finals
 
-- P01: Kanban digital
+- P01: Kanban digital - **Enllaç [aquí](https://planner.cloud.microsoft/webui/plan/0S5mafHEfU-XHoD7IeoGXZYABBa8/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)**
 - P02: Guia d’instal·lació de Linux Server - **no forma part de PI**
 - P03: Presentació de seguretat física - **no forma part de PI**
 
@@ -132,3 +132,7 @@ Va ser una síntesi de tots els coneixements treballats durant el cicle.
 - Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-8-polserrano/tree/main/Tasca_02)**
 
 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-8-polserrano)
+
+---
+
+- [Tornar Enrere](./.)
