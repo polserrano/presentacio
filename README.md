@@ -19,7 +19,7 @@ Cada projecte inclou documentació, configuracions, captures, scripts o fitxers 
 ---
 
 # 📁 Projectes inclosos
-### Projecte 01 al 8  — [Aquí](/Projectes/resum_projectes.md)
+### Resum projectes 01 al 8  — [Aquí](/Projectes/resum_projectes.md)
 ### Projecte 01 — Arranquem — [Aquí](/Projectes/Projecte1.md)
 ### Projecte 02 — Consultoria EverPia — [Aquí](/Projectes/Projecte2.md)
 ### Projecte 03 — Consultoria EverPia 2 — [Aquí](/Projectes/Projecte3.md)
