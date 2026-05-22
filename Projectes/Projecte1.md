@@ -10,12 +10,12 @@ Aquest projecte va servir per establir les bases de treball que posteriorment ap
 
 ## 📚 Tasques a realitzar
 
-- T01 - Expliquem el KANBAN: De la Teoria a la Pràctica amb Microsoft Planner (PI) - **no fa falta repo**
-- T02 - Crear la pròpia empresa - **no forma part de PI**
-- T03 - Hosting, naming i fonaments de la web - **no forma part de PI**
+- T01: Expliquem el KANBAN: De la Teoria a la Pràctica amb Microsoft Planner (PI) - **no fa falta repo**
+- T02: Crear la pròpia empresa - **no forma part de PI**
+- T03: Hosting, naming i fonaments de la web - **no forma part de PI**
 - T06: Explicar: Introducció a la seguretat informàtica - **no forma part de PI**
 - T07: Activitat 1 de seguretat - **no forma part de PI**
-- T08 - Introducció concepte i abast del terme sostenibilitat - **no forma part de PI**
+- T08: Introducció concepte i abast del terme sostenibilitat - **no forma part de PI**
 
 
 ## 📦 Productes finals
