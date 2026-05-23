@@ -2,7 +2,7 @@
 
 ---
 
-# 🚀 Projecte 01 — Arranquem
+# 🚀 [Projecte 01 — Arranquem](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte1.md)
 
 Aquest primer projecte va servir com a introducció a la metodologia de treball professional dins del món IT. L’objectiu principal no era crear un producte final complet, sinó aprendre a organitzar tasques, treballar en equip i seguir una metodologia àgil mitjançant eines com Kanban i Microsoft Planner.
 
@@ -18,7 +18,7 @@ També es van treballar conceptes inicials sobre sistemes Linux i seguretat fís
 
 ---
 
-# 🏢 Projecte 02 — Consultoria EverPia
+# 🏢 [Projecte 02 — Consultoria EverPia](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte2.md)
 
 En aquest projecte ens vam incorporar a la consultora fictícia EverPia com a tècnics júnior IT. L’objectiu era començar a treballar com una consultora real, resolent necessitats tecnològiques diverses i aplicant metodologies professionals de treball.
 
@@ -35,7 +35,7 @@ Es van treballar eines com GitHub, Markdown, serveis Linux, hosting i documentac
 
 ---
 
-# 🔥 Projecte 03 — Consultoria EverPia 2
+# 🔥 [Projecte 03 — Consultoria EverPia 2](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte3.md)
 
 Aquest projecte simulava el creixement real d’una empresa IT i els problemes derivats de mantenir una infraestructura professional. L’objectiu principal era aprendre a gestionar incidències, mantenir serveis crítics i treballar sota pressió.
 
@@ -55,7 +55,7 @@ Es van treballar serveis com DNS, LDAP, LVM i documentació tècnica professiona
 
 ---
 
-# 🧠 Projecte 04 — Consultoria EverPia 3
+# 🧠 [Projecte 04 — Consultoria EverPia 3](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte4.md)
 
 Aquest projecte representava la fase final dins la consultora EverPia. L’objectiu era demostrar autonomia, capacitat tècnica i maduresa professional mitjançant la resolució de reptes reals relacionats amb sistemes, xarxes, backups, serveis remots i eines de treball col·laboratiu.
 
@@ -72,7 +72,7 @@ També es va introduir Git de manera professional i es van desenvolupar prototip
 
 ---
 
-# 💡 Projecte 05 — La Incubadora
+# 💡 [Projecte 05 — La Incubadora](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte5.md)
 
 Aquest projecte consistia en crear una startup tecnològica des de zero dins una incubadora d’empreses simulada. L’objectiu era combinar coneixements tècnics amb emprenedoria, viabilitat econòmica i desenvolupament professional.
 
@@ -88,7 +88,7 @@ Es va treballar tant la creació del negoci com el desenvolupament del perfil pr
 
 ---
 
-# 🌐 Projecte 06 — Nexus
+# 🌐 [Projecte 06 — Nexus](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte6.md)
 
 El Projecte Nexus estava orientat al desplegament d’una plataforma E-learning sostenible. L’objectiu era implementar i justificar una infraestructura de servidor eficient, segura i viable per allotjar serveis educatius online.
 
@@ -104,7 +104,7 @@ Es van comparar tecnologies com Apache i Nginx, valorant rendiment, manteniment 
 
 ---
 
-# 🚛 Projecte 07 — Food Logístics S.A.
+# 🚛 [Projecte 07 — Food Logístics S.A.](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte7.md)
 
 Aquest projecte simulava la modernització tecnològica d’una empresa logística real. L’objectiu era implementar solucions d’alta disponibilitat, serveis al núvol, seguretat de dades i presència web corporativa.
 
@@ -120,7 +120,7 @@ També es van treballar pressupostos, manteniment i planificació professional d
 
 ---
 
-# 🌱 Projecte 08 — Connecta’t al Futur: el repte de la digitalització real
+# 🌱 [Projecte 08 — Connecta’t al Futur: el repte de la digitalització real](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte8.md)
 
 Aquest últim projecte estava enfocat en la transformació digital de petites i mitjanes empreses. El repte consistia a analitzar necessitats reals, proposar solucions tecnològiques i aplicar criteris de sostenibilitat i ODS dins les propostes tècniques.
 
