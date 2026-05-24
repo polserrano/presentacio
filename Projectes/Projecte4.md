@@ -37,5 +37,7 @@ Aquest projecte va servir com a preparació final abans de treballar en projecte
 - P03: Kanban del projecte - **Enllaç [aquí](https://planner.cloud.microsoft/webui/plan/1mAY6XgDXk-MtLqBLkdiO5YAE3RC/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)**
 - P04: Fitxes d’Economia Circular - **no forma part de PI**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte4)
-📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Qde7kjUXysCZpMvT7IC3qjRFR3_3cHhw?usp=sharing)
+## 📋 Recursos
+
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte4)
+- 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Qde7kjUXysCZpMvT7IC3qjRFR3_3cHhw?usp=sharing)
