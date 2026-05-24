@@ -29,5 +29,7 @@ El projecte finalitzava amb una presentació tipus “Shark Tank”, on s’havi
 - P02: Llicenciament Windows Server 2025 - **no forma part de PI**
 - P03: Presentació d’empresa amb visió Green IT - **no forma part de PI**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte5-polserrano)
-📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1nwgj6U-GBJLhF7Uvg79AI0ZPJEzVIBWM?usp=sharing)
+## 📋 Recursos
+
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte5-polserrano)
+- 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1nwgj6U-GBJLhF7Uvg79AI0ZPJEzVIBWM?usp=sharing)
