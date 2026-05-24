@@ -20,12 +20,12 @@ Aquest projecte va servir com a preparació final abans de treballar en projecte
 - T05: Accés Remot. Connexió via SSH - **no forma part de PI**
 - T06: Accés remot. Escriptori remot - **no forma part de PI**
 - T07: Accés remot. Serveis d’assistència remota - **no forma part de PI**
-- T08: Auditoria de Qualitat i Estandardització de Servidors
+- T08: Auditoria de Qualitat i Estandardització de Servidors - **no forma part de PI**
 - T09: Servidor fitxers Linux. NFS - **no forma part de PI**
 - T10: Servidor impressió Linux. CUPS - **no forma part de PI**
 - T11: Introducció a Figma: nocions bàsiques de disseny d’interfícies - **no fa falta repo**
 - T12: Fonaments del Disseny Web Comercial: Landing Page + Procés de Checkout - **no forma part de PI**
-- T13: Disseny d’un E-commerce en Figma
+- T13: Disseny d’un E-commerce en Figma - **no fa falta repo**
 - T14: Sostenibilitat. Prova Escrita - **no forma part de PI**
 - T15: Com de circular és la meva família professional? - **no forma part de PI**
 - T16: Crea el teu pla d’empresa TECH  - **no forma part de PI**
