@@ -17,12 +17,13 @@ Aquest projecte va servir per establir les bases de treball que posteriorment ap
 - T07: Activitat 1 de seguretat - **no forma part de PI**
 - T08: Introducció concepte i abast del terme sostenibilitat - **no forma part de PI**
 
-
 ## 📦 Productes finals
 
 - P01: Kanban digital - **Enllaç [aquí](https://planner.cloud.microsoft/webui/plan/0S5mafHEfU-XHoD7IeoGXZYABBa8/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)**
 - P02: Guia d’instal·lació de Linux Server - **no forma part de PI**
 - P03: Presentació de seguretat física - **no forma part de PI**
 
-🔗 Enllaç al repositori: no hi havia
-📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Cv579Z66Ga0rEDareG9cpg-M2z2PwM_s?usp=sharing)
+## 📋 Recursos
+
+- 🔗 Enllaç al repositori: no hi havia
+- 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Cv579Z66Ga0rEDareG9cpg-M2z2PwM_s?usp=sharing)
