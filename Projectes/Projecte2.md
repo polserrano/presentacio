@@ -10,18 +10,18 @@ La metodologia Kanban va continuar sent una peça clau dins l’organització de
 
 ## 📚 Tasques a realitzar
 
-- T00: Presentació del projecte i inicialització del Kanban (1h)
-- T01: GitHub (PI)
-- T02: Elecció del SAI (Seguretat)
-- T03: Seguretat Lògica (Seguretat)
-- T04: Configurant i administrant un servidor Linux (SOX)
-- T05: Servei de DHCP. Introducció teòrica (Serveis)
-- T06: Configuració DHCP – pràctica (Serveis)
-- T07: Sostenibilitat
-- T08: Assessorament de domini i hosting – Aplicacions Web
-- T09: Donar-se d’alta en un hosting gratuït – Aplicacions Web
-- T10: Màsterclass de Markdown
-- T11: Instal·lació de WordPress en local amb WP Local – Aplicacions Web
+- T00: Presentació del projecte - **no fa falta repo**
+- T01: GitHub - **no fa falta repo**
+- T02: Elecció del SAI - **no forma part de PI**
+- T03: Seguretat Lògica - **no forma part de PI**
+- T04: Configurant i administrant un servidor Linux - **no forma part de PI**
+- T05: Servei de DHCP. Introducció teòrica - **no forma part de PI**
+- T06: Configuració DHCP - **no forma part de PI**
+- T07: Sostenibilitat - **no forma part de PI**
+- T08: Assessorament de domini i hosting - **no forma part de PI**
+- T09: Donar-se d’alta en un hosting gratuït - **no forma part de PI**
+- T10: Màsterclass de Markdown  - **no fa falta repo**
+- T11: Instal·lació de WordPress en local amb WP Local - **no forma part de PI**
 
 
 ## 📦 Productes finals
