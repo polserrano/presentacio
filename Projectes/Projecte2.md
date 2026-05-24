@@ -31,5 +31,7 @@ La metodologia Kanban va continuar sent una peça clau dins l’organització de
 - P03: Documentació tècnica al repositori - **no feia falta repo**
 - P04: Presentació de hosting - **no feia falta repo**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte2)
-📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Ovq3Leiw7XTZ2OH5mzc5ciiGccMF24rt?usp=sharing)
+## 📋 Recursos
+
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte2)
+- 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Ovq3Leiw7XTZ2OH5mzc5ciiGccMF24rt?usp=sharing)
