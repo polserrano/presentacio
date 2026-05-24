@@ -12,20 +12,20 @@ Va ser un projecte molt orientat a la realitat laboral del sector IT i a la pres
 
 ## 📚 Tasques a realitzar
 
-- T00 - Crear estructura de carpetes 
-- T01 - Sota el Capó d'Internet: Què passa realment quan fas clic a un enllaç?
-- T02 - Missió Apache: Desplegament Multidomini i segur 
-- T03 - Missió Nginx: Migració d'Alt Rendiment i Arquitectura Lleugera
-- T04 - Duel de titans, Apache vs Nginx
-- T05 - Top Secret, protegint els secrets
-- T06 - Projecte Nexus. Implantació de PKI i Signatura Digital Corporativa
-- T07 - TransLògic: Administració Avançada i Seguretat Corporativa
-- T08 - Vigilància i auditoria de sistemes
-- T09 - Creació d’una acadèmia amb un curs de GreenIT amb Moodle
-- T10 - Canvas LMS una alternativa a Moodle
-- T11 - Comparativa Moodle vs Canvas LMS
-- T12 - Tasca IPO II
-- T13 - Omplim el curs de sostenibilitat (4 hores)
+- T00: Crear estructura de carpetes  - **no fa falta repo**
+- T01: Sota el Capó d'Internet: Què passa realment quan fas clic a un enllaç? - **no forma part de PI**
+- T02: Missió Apache: Desplegament Multidomini i segur  - **no forma part de PI**
+- T03: Missió Nginx: Migració d'Alt Rendiment i Arquitectura Lleugera - **no forma part de PI**
+- T04: Duel de titans, Apache vs Nginx - **no forma part de PI**
+- T05: Top Secret, protegint els secrets - **no forma part de PI**
+- T06: Projecte Nexus. Implantació de PKI i Signatura Digital Corporativa - **no forma part de PI**
+- T07: TransLògic: Administració Avançada i Seguretat Corporativa - **no forma part de PI**
+- T08: Vigilància i auditoria de sistemes - **no forma part de PI**
+- T09: Creació d’una acadèmia amb un curs de GreenIT amb Moodle - **no forma part de PI**
+- T10: Canvas LMS una alternativa a Moodle
+- T11: Comparativa Moodle vs Canvas LMS
+- T12: Tasca IPO II - **no forma part de PI**
+- T13: Omplim el curs de sostenibilitat  - **no forma part de PI**
 
 ## 📦 Productes finals
 
