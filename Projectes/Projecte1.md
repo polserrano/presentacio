@@ -25,3 +25,4 @@ Aquest projecte va servir per establir les bases de treball que posteriorment ap
 - P03: Presentació de seguretat física - **no forma part de PI**
 
 🔗 Enllaç al repositori: no hi havia
+📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Cv579Z66Ga0rEDareG9cpg-M2z2PwM_s?usp=sharing)
