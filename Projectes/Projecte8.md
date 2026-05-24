@@ -16,3 +16,4 @@ Va ser una experiència molt enfocada al món laboral real i a la figura del tè
 - Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-8-polserrano/tree/main/Tasca_02)**
 
 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-8-polserrano)
+📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1rrPCUkPxgelG-AMid8FKm7mtJTFM0NoK?usp=sharing)
