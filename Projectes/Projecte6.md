@@ -22,8 +22,8 @@ Va ser un projecte molt orientat a la realitat laboral del sector IT i a la pres
 - T07: TransLògic: Administració Avançada i Seguretat Corporativa - **no forma part de PI**
 - T08: Vigilància i auditoria de sistemes - **no forma part de PI**
 - T09: Creació d’una acadèmia amb un curs de GreenIT amb Moodle - **no forma part de PI**
-- T10: Canvas LMS una alternativa a Moodle
-- T11: Comparativa Moodle vs Canvas LMS
+- T10: Canvas LMS una alternativa a Moodle - **no fa falta repo**
+- T11: Comparativa Moodle vs Canvas LMS - **no fa falta repo**
 - T12: Tasca IPO II - **no forma part de PI**
 - T13: Omplim el curs de sostenibilitat  - **no forma part de PI**
 
