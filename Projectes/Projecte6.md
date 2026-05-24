@@ -34,3 +34,4 @@ Va ser un projecte molt orientat a la realitat laboral del sector IT i a la pres
 - P03: Estructura del repositori - **no feia falta repo**
 
 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte6-polserrano)
+📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Jf1QZPxWOVOfSMpmqZ8x45LBg4U49F6w?usp=sharing)
