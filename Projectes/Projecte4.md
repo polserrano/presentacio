@@ -38,3 +38,4 @@ Aquest projecte va servir com a preparació final abans de treballar en projecte
 - P04: Fitxes d’Economia Circular - **no forma part de PI**
 
 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte4)
+📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Qde7kjUXysCZpMvT7IC3qjRFR3_3cHhw?usp=sharing)
