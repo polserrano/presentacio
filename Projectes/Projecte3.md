@@ -32,5 +32,7 @@ Aquest projecte va reforçar molt la capacitat de treball en equip, la resoluci�
 - P06: Vídeo sobre fonaments DNS - **no forma part de PI**
 - P07: Infografia de sostenibilitat - **no forma part de PI**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte3)
-📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1ikwcZrlQBvPPWbC2dTkgzrWshgBvsmQ3?usp=sharing)
+## 📋 Recursos
+
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/Projecte3)
+- 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1ikwcZrlQBvPPWbC2dTkgzrWshgBvsmQ3?usp=sharing)
