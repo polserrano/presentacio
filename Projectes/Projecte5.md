@@ -13,7 +13,7 @@ El projecte finalitzava amb una presentació tipus “Shark Tank”, on s’havi
 ## 📚 Tasques a realitzar
 
 - T00: Presentació del projecte i actualització de l’e-portafoli - **no fa falta repo**
-- T01: Disseny de la Solució Tècnica Integrada
+- T01: Disseny de la Solució Tècnica Integrada - **enllaç [aqui](https://github.com/polserrano/projecte5-polserrano/tree/main/Tasca_01)**
 - T02: Control de versions. Treballant amb git - **no fa falta repo**
 - T03: Serveis de transferència de fitxers - **no forma part de PI**
 - T04: Instal·lació Windows Server 2025 - **no forma part de PI**
