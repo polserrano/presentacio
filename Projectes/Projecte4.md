@@ -12,23 +12,23 @@ Aquest projecte va servir com a preparació final abans de treballar en projecte
 
 ## 📚 Tasques a realitzar
 
-- T00: Presentació del projecte i creació del Kanban i el repositori (1h)
-- T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
-- T02: DPR: còpies de seguretat. Cas pràctic
-- T03: Pla de recuperació davant desastres: imatges del sistema
-- T04: Accés remot
-- T05: Accés Remot. Connexió via SSH (tasca individual)
-- T06: Accés remot. Escriptori remot (RDP) (tasca individual)
-- T07: Accés remot. Serveis d’assistència remota (tasca en parelles)
-- T08: Auditoria de Qualitat i Estandardització de Servidors (tasca individual)
-- T09: Servidor fitxers Linux. NFS (tasca individual)
-- T10: Servidor impressió Linux. CUPS (tasca individual)
-- T11: Introducció a Figma: nocions bàsiques de disseny d’interfícies
-- T12: Fonaments del Disseny Web Comercial: Landing Page + Procés de Checkout
-- T13: Disseny d’un E-commerce en Figma (Landing Page + Checkout)
-- T14: Sostenibilitat. Prova Escrita - 1h
-- T15: Com de circular és la meva família professional?
-- T16:  Crea el teu pla d’empresa TECH
+- T00: Presentació del projecte  - **no fa falta repo**
+- T01: DRP: còpies de seguretat. Estudi cas client - **no forma part de PI**
+- T02: DPR: còpies de seguretat - **no forma part de PI**
+- T03: Pla de recuperació davant desastres: imatges del sistema - **no forma part de PI**
+- T04: Accés remot - **no forma part de PI**
+- T05: Accés Remot. Connexió via SSH - **no forma part de PI**
+- T06: Accés remot. Escriptori remot - **no forma part de PI**
+- T07: Accés remot. Serveis d’assistència remota - **no forma part de PI**
+- T08: Auditoria de Qualitat i Estandardització de Servidors
+- T09: Servidor fitxers Linux. NFS - **no forma part de PI**
+- T10: Servidor impressió Linux. CUPS - **no forma part de PI**
+- T11: Introducció a Figma: nocions bàsiques de disseny d’interfícies - **no fa falta repo**
+- T12: Fonaments del Disseny Web Comercial: Landing Page + Procés de Checkout - **no forma part de PI**
+- T13: Disseny d’un E-commerce en Figma
+- T14: Sostenibilitat. Prova Escrita - **no forma part de PI**
+- T15: Com de circular és la meva família professional? - **no forma part de PI**
+- T16: Crea el teu pla d’empresa TECH  - **no forma part de PI**
 
 ## 📦 Productes finals
 
