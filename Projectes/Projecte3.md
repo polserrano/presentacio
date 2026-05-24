@@ -13,10 +13,10 @@ Aquest projecte va reforçar molt la capacitat de treball en equip, la resoluci�
 ## 📚 Tasques a realitzar
 
 - T01: Gestors de contrasenyes - **no forma part de PI**
-- T02: Gestió de l’emmagatzematge. Sessions teòriques.  - **no forma part de PI**
-- T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge)  - **no forma part de PI**
+- T02: Gestió de l’emmagatzematge. Sessions teòriques - **no forma part de PI**
+- T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge) - **no forma part de PI**
 - T04: Serveis de Directori. LDAP  - **no forma part de PI**
-- T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria
+- T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria - **enllaç [aqui](https://github.com/polserrano/Projecte3/tree/main/tasca_05)**
 - T06: Fonaments del servei DNS - **no forma part de PI**
 - T07: Instal·lant un servidor de noms  - **no forma part de PI**
 - T08: Sitemaps i infraestructura d’una pàgina web - **no forma part de PI**
