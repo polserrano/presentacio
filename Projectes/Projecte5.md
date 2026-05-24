@@ -12,16 +12,16 @@ El projecte finalitzava amb una presentació tipus “Shark Tank”, on s’havi
 
 ## 📚 Tasques a realitzar
 
-- T00: Presentació del projecte i actualització de l’e-portafoli (1h)
+- T00: Presentació del projecte i actualització de l’e-portafoli - **no fa falta repo**
 - T01: Disseny de la Solució Tècnica Integrada
-- T02: Control de versions. Treballant amb git
-- T03: Serveis de transferència de fitxers
-- T04: Instal·lació Windows Server 2025
-- T05: Instal·lació del domini
-- T06: Configuració del domini
-- T07: Acadèmia feta amb Moodle
-- T08: Seguretat: protegint-nos contra el malware
-- T09: Seguretat: les vulnerT07: Acadèmia feta amb Moodleabilitats dels sistemes
+- T02: Control de versions. Treballant amb git - **no fa falta repo**
+- T03: Serveis de transferència de fitxers - **no forma part de PI**
+- T04: Instal·lació Windows Server 2025 - **no forma part de PI**
+- T05: Instal·lació del domini - **no forma part de PI**
+- T06: Configuració del domini - **no forma part de PI**
+- T07: Acadèmia feta amb Moodle - **no forma part de PI**
+- T08: Seguretat: protegint-nos contra el malware - **no forma part de PI**
+- T09: Seguretat: les vulnerabilitats  - **no forma part de PI**
 
 ## 📦 Productes finals
 
