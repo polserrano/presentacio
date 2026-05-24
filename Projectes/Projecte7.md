@@ -31,5 +31,7 @@ Aquest projecte va representar una simulació molt propera a un encàrrec real d
 - P02: Web corporativa legal i publicada - **no forma part de PI**
 - P03: Repositori GitHub - **no feia falta repo**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-7-polserrano)
-📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1MTcD6qfcpc_7KMXUI-niYY1AsfsEnQSY?usp=sharing)
+## 📋 Recursos
+
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-7-polserrano)
+- 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1MTcD6qfcpc_7KMXUI-niYY1AsfsEnQSY?usp=sharing)
