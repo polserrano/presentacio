@@ -15,12 +15,12 @@ Aquest projecte va representar una simulació molt propera a un encàrrec real d
 ## 📚 Tasques a realitzar
 
 - T01: Estudi competència
-- T02: Web corporativa
-- T03: Servidor de Fitxers
-- T04: Servidor d’impressió
-- T05: Vídeo formatiu LOPD empleats
-- T06: Adaptació web normativa legal
-- T07: Solució correu cloud
+- T02: Web corporativa - **no forma part de PI**
+- T03: Servidor de Fitxers - **no forma part de PI**
+- T04: Servidor d’impressió - **no forma part de PI**
+- T05: Vídeo formatiu LOPD empleats - **no forma part de PI**
+- T06: Adaptació web normativa legal - **no forma part de PI**
+- T07: Solució correu cloud - **no forma part de PI**
 - T08: Tria de la web definitiva
 - T09: Estimació temporal de projecte
 - T10: Pressupost del projecte
