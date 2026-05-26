@@ -72,7 +72,7 @@ També es va introduir Git de manera professional i es van desenvolupar prototip
 
 ---
 
-# 💡 [Projecte 05 — La Incubadora](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte5.md)
+# 💡 [Projecte 05 — La Incubadora](https://github.com/polserrano/projecte5)
 
 Aquest projecte consistia en crear una startup tecnològica des de zero dins una incubadora d’empreses simulada. L’objectiu era combinar coneixements tècnics amb emprenedoria, viabilitat econòmica i desenvolupament professional.
 
@@ -88,7 +88,7 @@ Es va treballar tant la creació del negoci com el desenvolupament del perfil pr
 
 ---
 
-# 🌐 [Projecte 06 — Nexus](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte6.md)
+# 🌐 [Projecte 06 — Nexus](https://github.com/polserrano/projecte6)
 
 El Projecte Nexus estava orientat al desplegament d’una plataforma E-learning sostenible. L’objectiu era implementar i justificar una infraestructura de servidor eficient, segura i viable per allotjar serveis educatius online.
 
@@ -104,7 +104,7 @@ Es van comparar tecnologies com Apache i Nginx, valorant rendiment, manteniment 
 
 ---
 
-# 🚛 [Projecte 07 — Food Logístics S.A.](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte7.md)
+# 🚛 [Projecte 07 — Food Logístics S.A.](https://github.com/polserrano/projecte7)
 
 Aquest projecte simulava la modernització tecnològica d’una empresa logística real. L’objectiu era implementar solucions d’alta disponibilitat, serveis al núvol, seguretat de dades i presència web corporativa.
 
@@ -120,7 +120,7 @@ També es van treballar pressupostos, manteniment i planificació professional d
 
 ---
 
-# 🌱 [Projecte 08 — Connecta’t al Futur: el repte de la digitalització real](https://github.com/polserrano/presentacio/blob/main/Projectes/Projecte8.md)
+# 🌱 [Projecte 08 — Connecta’t al Futur: el repte de la digitalització real](https://github.com/polserrano/projecte8)
 
 Aquest últim projecte estava enfocat en la transformació digital de petites i mitjanes empreses. El repte consistia a analitzar necessitats reals, proposar solucions tecnològiques i aplicar criteris de sostenibilitat i ODS dins les propostes tècniques.
 
