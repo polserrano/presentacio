@@ -27,7 +27,7 @@ Aquest projecte va representar una simulació molt propera a un encàrrec real d
 
 ## 📦 Productes finals
 
-- P01: Proposta tècnica i dossier de desplegament - **Enllaç [aquí](https://github.com/polserrano/projecte8)**
+- P01: Proposta tècnica i dossier de desplegament - **Enllaç [aquí](https://github.com/polserrano/projecte7)**
 - P02: Web corporativa legal i publicada - **no forma part de PI**
 - P03: Repositori GitHub - **no feia falta repo**
 
