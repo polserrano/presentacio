@@ -31,5 +31,5 @@ El projecte finalitzava amb una presentació tipus “Shark Tank”, on s’havi
 
 ## 📋 Recursos
 
-- 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte5-polserrano)
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte5)
 - 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1nwgj6U-GBJLhF7Uvg79AI0ZPJEzVIBWM?usp=sharing)
