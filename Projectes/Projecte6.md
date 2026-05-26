@@ -35,5 +35,5 @@ Va ser un projecte molt orientat a la realitat laboral del sector IT i a la pres
 
 ## 📋 Recursos
 
-- 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte6-polserrano)
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte6)
 - 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1Jf1QZPxWOVOfSMpmqZ8x45LBg4U49F6w?usp=sharing)
