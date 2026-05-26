@@ -128,8 +128,8 @@ Va ser una síntesi de tots els coneixements treballats durant el cicle.
 
 ## 📦 Productes finals
 
-- Tasca 1: Anàlisi de necessitats del client - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-8-polserrano/tree/main/Tasca_01)**
-- Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-8-polserrano/tree/main/Tasca_02)**
+- Tasca 1: Anàlisi de necessitats del client - **Enllaç [aquí](https://github.com/polserrano/projecte8/tree/main/Tasca_01)**
+- Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/polserrano/projecte8/tree/main/Tasca_02)**
 
 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-8-polserrano)
 
