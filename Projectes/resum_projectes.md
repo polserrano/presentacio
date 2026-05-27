@@ -84,7 +84,7 @@ Es va treballar tant la creació del negoci com el desenvolupament del perfil pr
 - P02: Llicenciament Windows Server 2025 - **no forma part de PI**
 - P03: Presentació d’empresa amb visió Green IT - **no forma part de PI**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte5-polserrano)
+🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte5)
 
 ---
 
@@ -96,11 +96,11 @@ Es van comparar tecnologies com Apache i Nginx, valorant rendiment, manteniment 
 
 ## 📦 Productes finals
 
-- P01: Memòria tècnica de la proposta - **Enllaç [aquí](https://github.com/classesSMX2n/projecte6-polserrano/tree/main/Producte_01)**
+- P01: Memòria tècnica de la proposta - **Enllaç [aquí](https://github.com/polserrano/projecte6/tree/main/Producte_01)**
 - P02: Presentació de la proposta al client - **no forma part de PI**
 - P03: Estructura del repositori - **no feia falta repo**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte6-polserrano)
+🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte6)
 
 ---
 
@@ -112,11 +112,11 @@ També es van treballar pressupostos, manteniment i planificació professional d
 
 ## 📦 Productes finals
 
-- P01: Proposta tècnica i dossier de desplegament - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-7-polserrano/tree/main)**
+- P01: Proposta tècnica i dossier de desplegament - **Enllaç [aquí](https://github.com/polserrano/projecte7/tree/main/P01)**
 - P02: Web corporativa legal i publicada - **no forma part de PI**
 - P03: Repositori GitHub - **no feia falta repo**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-7-polserrano)
+🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte7)
 
 ---
 
@@ -131,7 +131,7 @@ Va ser una síntesi de tots els coneixements treballats durant el cicle.
 - Tasca 1: Anàlisi de necessitats del client - **Enllaç [aquí](https://github.com/polserrano/projecte8/tree/main/Tasca_01)**
 - Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/polserrano/projecte8/tree/main/Tasca_02)**
 
-🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-8-polserrano)
+🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte8)
 
 ---
 
