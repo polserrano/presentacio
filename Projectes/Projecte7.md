@@ -21,13 +21,13 @@ Aquest projecte va representar una simulació molt propera a un encàrrec real d
 - T05: Vídeo formatiu LOPD empleats - **no forma part de PI**
 - T06: Adaptació web normativa legal - **no forma part de PI**
 - T07: Solució correu cloud - **no forma part de PI**
-- T08: Tria de la web definitiva - **enllaç [aqui](https://github.com/classesSMX2n/projecte-7-polserrano/tree/main/Tasca_08)**
-- T09: Estimació temporal de projecte - **enllaç [aqui](https://github.com/classesSMX2n/projecte-7-polserrano/tree/main/Tasca_09)**
-- T10: Pressupost del projecte - **enllaç [aqui](https://github.com/classesSMX2n/projecte-7-polserrano/tree/main/Tasca_10)**
+- T08: Tria de la web definitiva - **enllaç [aqui](https://github.com/polserrano/projecte7/tree/main/Tasca_08)**
+- T09: Estimació temporal de projecte - **enllaç [aqui](https://github.com/polserrano/projecte7/tree/main/Tasca_09)**
+- T10: Pressupost del projecte - **enllaç [aqui](https://github.com/polserrano/projecte7/tree/main/Tasca_10)**
 
 ## 📦 Productes finals
 
-- P01: Proposta tècnica i dossier de desplegament - **Enllaç [aquí](https://github.com/polserrano/projecte7)**
+- P01: Proposta tècnica i dossier de desplegament - **Enllaç [aquí](https://github.com/polserrano/projecte7/tree/main/P01)**
 - P02: Web corporativa legal i publicada - **no forma part de PI**
 - P03: Repositori GitHub - **no feia falta repo**
 
