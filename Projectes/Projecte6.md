@@ -29,7 +29,7 @@ Va ser un projecte molt orientat a la realitat laboral del sector IT i a la pres
 
 ## 📦 Productes finals
 
-- P01: Memòria tècnica de la proposta - **Enllaç [aquí](https://github.com/classesSMX2n/projecte6-polserrano/tree/main/Producte_01)**
+- P01: Memòria tècnica de la proposta - **Enllaç [aquí](https://github.com/polserrano/projecte6/tree/main/Producte_01)**
 - P02: Presentació de la proposta al client - **no forma part de PI**
 - P03: Estructura del repositori - **no feia falta repo**
 
