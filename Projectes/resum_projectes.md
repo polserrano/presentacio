@@ -135,4 +135,4 @@ Va ser una síntesi de tots els coneixements treballats durant el cicle.
 
 ---
 
-- [Tornar Enrere](./.)
+- [Tornar Enrere](https://github.com/polserrano/presentacio/blob/main/README.md)
