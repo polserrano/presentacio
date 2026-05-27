@@ -12,8 +12,8 @@ Va ser una experiència molt enfocada al món laboral real i a la figura del tè
 
 ## 📚 Tasques a realitzar
 
-- Tasca 1: Anàlisi de necessitats del client - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-8-polserrano/tree/main/Tasca_01)**
-- Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/classesSMX2n/projecte-8-polserrano/tree/main/Tasca_02)**
+- Tasca 1: Anàlisi de necessitats del client - **Enllaç [aquí](https://github.com/polserrano/projecte8/tree/main/Tasca_01)**
+- Tasca 2: Elaboració d’un pla de sostenibilitat - **Enllaç [aquí](https://github.com/polserrano/projecte8/tree/main/Tasca_02)**
 
 ## 📋 Recursos
 
