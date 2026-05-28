@@ -33,5 +33,5 @@ Aquest projecte va representar una simulació molt propera a un encàrrec real d
 
 ## 📋 Recursos
 
-- 🔗 Enllaç al repositori: [Enllaç](https://github.com/classesSMX2n/projecte-7-polserrano)
+- 🔗 Enllaç al repositori: [Enllaç](https://github.com/polserrano/projecte7)
 - 📁 Enllaç al repositori de Drive: [Enllaç](https://drive.google.com/drive/folders/1MTcD6qfcpc_7KMXUI-niYY1AsfsEnQSY?usp=sharing)
